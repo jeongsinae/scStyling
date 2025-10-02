@@ -1,0 +1,5 @@
+# Ignore all data folders
+data/
+SCAD/data/
+scFoundation/SCAD/data/
+
