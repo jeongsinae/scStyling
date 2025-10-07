@@ -31,3 +31,11 @@ All scripts take the following arguments:
   - Defines whether to use raw gene expression (`gexpr`) or foundation model embeddings.
 
 ---
+
+## Download Data
+https://zenodo.org/records/17264400
+
+scStyling
+- data
+    - embeddings
+    - gexpr
