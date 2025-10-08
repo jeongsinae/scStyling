@@ -33,9 +33,12 @@ All scripts take the following arguments:
 ---
 
 ## Download Data
-[https://zenodo.org/records/17264400](https://zenodo.org/records/17287489
+https://zenodo.org/records/17287489
 
 scStyling
 - data
     - embeddings
     - gexpr
+    - scad_data
+      - SCAD_data
+      - scFoundation/SCAD_data 
