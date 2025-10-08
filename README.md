@@ -43,12 +43,42 @@ scStyling
       - SCAD_data
       - scFoundation/SCAD_data 
 
-## 🗂️ Directory Overview
-
-| Directory | Description |
-|------------|--------------|
-| [`data/`](./data) | 기본 데이터 폴더 (임베딩 및 유전자 발현 데이터 포함) |
-| [`SCAD/data/`](./SCAD/data) | SCAD 데이터셋 (단일 셀 분석용) |
-| [`scFoundation/SCAD/data/`](./scFoundation/SCAD/data) | SCAD 데이터가 통합된 scFoundation 파이프라인용 폴더 |
 
 ---
+
+## 🗂️ Dataset Tree (Markdown Links)
+
+- [data/](./data)  
+  - [embeddings/](./data/embeddings)  
+  - [gexpr/](./data/gexpr)  
+
+- [SCAD/](./SCAD)  
+  - [data/](./SCAD/data)  
+
+- [scFoundation/](./scFoundation)  
+  - [SCAD/](./scFoundation/SCAD)  
+    - [data/](./scFoundation/SCAD/data)
+
+---
+
+## 📘 Directory Overview
+
+| Directory | Description |
+|------------|-------------|
+| [`data/`](./data) | Contains core datasets such as embeddings and gene expression matrices |
+| [`SCAD/data/`](./SCAD/data) | SCAD dataset for single-cell-based drug response analysis |
+| [`scFoundation/SCAD/data/`](./scFoundation/SCAD/data) | SCAD dataset integrated into the scFoundation framework |
+
+---
+
+## ⚙️ Usage Example
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/scStyling.git
+cd scStyling
+
+# Explore datasets
+ls data/
+ls SCAD/data/
+ls scFoundation/SCAD/data/
