@@ -42,3 +42,13 @@ scStyling
     - scad_data
       - SCAD_data
       - scFoundation/SCAD_data 
+
+## 🗂️ Directory Overview
+
+| Directory | Description |
+|------------|--------------|
+| [`data/`](./data) | 기본 데이터 폴더 (임베딩 및 유전자 발현 데이터 포함) |
+| [`SCAD/data/`](./SCAD/data) | SCAD 데이터셋 (단일 셀 분석용) |
+| [`scFoundation/SCAD/data/`](./scFoundation/SCAD/data) | SCAD 데이터가 통합된 scFoundation 파이프라인용 폴더 |
+
+---
