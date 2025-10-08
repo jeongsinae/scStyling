@@ -33,7 +33,7 @@ All scripts take the following arguments:
 ---
 
 ## Download Data
-https://zenodo.org/records/17264400
+[https://zenodo.org/records/17264400](https://zenodo.org/records/17287489
 
 scStyling
 - data
