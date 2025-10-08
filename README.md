@@ -51,16 +51,6 @@ https://zenodo.org/records/17287489
 
 ---
 
-## 📘 Directory Overview
-
-| Directory | Description |
-|------------|-------------|
-| [`data/`](./data) | Contains core datasets such as embeddings and gene expression matrices |
-| [`SCAD/data/`](./SCAD/data) | SCAD dataset for single-cell-based drug response analysis |
-| [`scFoundation/SCAD/data/`](./scFoundation/SCAD/data) | SCAD dataset integrated into the scFoundation framework |
-
----
-
 ## ⚙️ Usage Example
 
 ```bash
